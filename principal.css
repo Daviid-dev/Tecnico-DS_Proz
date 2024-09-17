@@ -1,0 +1,49 @@
+body {
+  background-image: url(https://i.pinimg.com/564x/b9/ed/81/b9ed81e922330b44268707c4fd820281.jpg);
+  background-position: center;
+  
+}
+
+div.container {
+
+  gap: 20px;
+  justify-content: center;
+}
+
+
+main {
+  width: 70%;
+  height: 170px;
+  padding: 1%;
+
+  margin-inline-start: 25%;
+  margin-top: 25%;
+}
+
+p {
+  background-color: #870100;
+  width: 40%;
+  height: 60 px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 8%;
+  margin-inline-start: 15%;
+  font-size: 40px;
+  border-radius: 10px;
+  padding: %;
+
+
+}
+
+custom-links #bio {
+  color: #F2E9BB;
+  text-decoration: none;
+
+}
+
+#temp {
+  color: #F2E9BB
+}
+
+#luta {
+  color: #F2E9BB
+}
